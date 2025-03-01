@@ -64,7 +64,7 @@ int main() {
 //    if (input=1){
 //        sort(laik.vard);
 //    }
-
+    
     return 0;
 
 }
