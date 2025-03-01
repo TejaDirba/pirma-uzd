@@ -55,5 +55,16 @@ int main() {
              << GalutinisMediana(n) << endl;
     }
 
+    cout<<"Pasirinkite pagal ka norite rusiuoti:"<<;
+    cout<<"1 varda"<<endl;
+    cout<<"2 pavarde"<<endl;
+    cout<<"3 vidurki"<<endl;
+    cout<<"4 mediana"<<endl;
+//    cin>>input;
+//    if (input=1){
+//        sort(laik.vard);
+//    }
+
     return 0;
+
 }
